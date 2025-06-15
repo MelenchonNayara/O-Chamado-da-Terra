@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra-Certo\\",
+  "WorkspaceRootPath": "C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra\\OChamadoDaTerra\\OChamadoDaTerra\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra-Certo\\style.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra\\OChamadoDaTerra\\OChamadoDaTerra\\equipe.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:equipe.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra\\OChamadoDaTerra\\OChamadoDaTerra\\style.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:style.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra-Certo\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra\\OChamadoDaTerra\\OChamadoDaTerra\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra\\OChamadoDaTerra\\OChamadoDaTerra\\sobre.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sobre.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra-Certo\\style.css",
-              "RelativeDocumentMoniker": "style.css",
-              "ToolTip": "C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra-Certo\\style.css",
-              "RelativeToolTip": "style.css",
-              "ViewState": "AgIAAJsBAAAAAAAAAAAAAAUCAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-13T14:48:05.662Z",
+              "Title": "equipe.html",
+              "DocumentMoniker": "C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra\\OChamadoDaTerra\\OChamadoDaTerra\\equipe.html",
+              "RelativeDocumentMoniker": "equipe.html",
+              "ToolTip": "C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra\\OChamadoDaTerra\\OChamadoDaTerra\\equipe.html",
+              "RelativeToolTip": "equipe.html",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAAABEBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-13T14:41:34.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sobre.html",
+              "DocumentMoniker": "C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra\\OChamadoDaTerra\\OChamadoDaTerra\\sobre.html",
+              "RelativeDocumentMoniker": "sobre.html",
+              "ToolTip": "C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra\\OChamadoDaTerra\\OChamadoDaTerra\\sobre.html",
+              "RelativeToolTip": "sobre.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-13T14:23:06.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra\\OChamadoDaTerra\\OChamadoDaTerra\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra\\OChamadoDaTerra\\OChamadoDaTerra\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-13T14:21:54.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra-Certo\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra-Certo\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-13T14:47:59.713Z",
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra\\OChamadoDaTerra\\OChamadoDaTerra\\style.css",
+              "RelativeDocumentMoniker": "style.css",
+              "ToolTip": "C:\\Users\\20231450039\\Downloads\\OChamadoDaTerra\\OChamadoDaTerra\\OChamadoDaTerra\\style.css",
+              "RelativeToolTip": "style.css",
+              "ViewState": "AgIAANoBAAAAAAAAAAAqwAUCAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-13T14:21:02.789Z",
               "EditorCaption": ""
             }
           ]
